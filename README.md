@@ -1,4 +1,4 @@
-# University of Sheffield Computer Science Computer Vision Project; Done by: ACA22JHT
+# University of Sheffield Computer Science (Computer Vision Project) Done by: ACA22JHT
 
 ## Overview:
 The aim of this project is to create a software Graphical User Interface (GUI) using Python, to aid in visualizing the implementation of the tasks which will be further discussed below as well as to aid in the debugging of the program effectively. The interface is meant to display the detected features, their best matches in another image, and the generated panoramic image. The task was to develop code for detecting discriminative features that exhibit reasonable invariance to translation, rotation, and illumination within an image. The matched features, or correspondences, can then be utilized to seamlessly stitch a pair of images together to form a panorama.
