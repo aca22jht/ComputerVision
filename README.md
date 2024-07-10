@@ -14,5 +14,5 @@ The aim of this project is to create a software Graphical User Interface (GUI) u
 Running the code/program (in Python) will result in a GUI interface being generated in which there are a bunch of drop-down boxes for selection of a range of actions to be performed on the selected pair of images through clickable buttons, to execute different mixtures of feature detection, stitching, or even matching.
 
 ## Challenges faced:
-We were challenged to create our own Python GUI interface through research without being taught how to create one, it was a fun and interesting experience (in the creation of a GUI using Python) to learn nevertheless.
+I was challenged to create our own Python GUI interface through research without being taught how to create one, it was a fun and interesting experience (in the creation of a GUI using Python) to learn nevertheless.
 
