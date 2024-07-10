@@ -11,14 +11,14 @@ and the SIFT feature point detection method (I had to display the points, includ
 in a report, I had to not only describe the implementation details of the methods implemented but also utilize experimental results to compare and contrast the difference between them.
 3. Feature Description where I created a SIFT descriptor and a binary descriptor as well as conducted research to determine the most suitable option for a low-dimensional descriptor to suit my specific needs for the program.
 4. Feature Matching (we had to implement this from scratch without the use of any built-in functions) that entails the process of identifying the best matching feature in another image given a feature in one image. Implemented the SSD and ratio test whilst doing this. 5. Image stitch where I had to find the homography that relates the two images and warp the right image using the calculated homography, with an output width of left image width + right image width. Using slicing to indicate where in the warped image you want to put the left image.
-5. 
+
 
 1. Connect the app to an upgraded IBM Cloud Text-to-speech instance, so there is no restriction on
 characters per month (just change API key and URL in backend/TextToSpeechInterface
 initTextToSpeechInterface() function)
 2. Reduce Text-to-speech audio delay in Chatbot Screen/add pinwheel to speaker icon
 3. Add gltf viewer to PaintingNoArActivity so non-camera/non-AR users can view 3D model
-4. Add Speech-to-text so the user can speak their questions to the chatbot
+4. Feature Matching (we had to implement this from scratch without the use of any built-in functions) that entails the process of identifying the best matching feature in another image given a feature in one image. Implemented the SSD and ratio test whilst doing this. 5. Image stitch where I had to find the homography that relates the two images and warp the right image using the calculated homography, with an output width of left image width + right image width. Using slicing to indicate where in the warped image you want to put the left image.
 5. A report which I coded, created and generated using LaTEX (a document mark-up language).
 
 ## How to use:
